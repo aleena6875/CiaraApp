@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CiaraApp</string>
+ <string-array name="age_categories">
+     <item>Select</item>
+     <item>10-15</item>
+     <item>16-25</item>
+     <item>26-35</item>
+     <item>36-50</item>
+     <item>Above 50</item>
+ </string-array>
+    <string-array name="category">
+        <item>Select</item>
+        <item>Yes</item>
+        <item>No</item>
+    </string-array>
+    <string-array name="gender_category">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Non-Binary</item>
+        <item>Other</item>
+
+    </string-array>
+</resources>
